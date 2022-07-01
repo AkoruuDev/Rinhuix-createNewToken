@@ -1,0 +1,12 @@
+:root {
+    --background: #555555;
+    --content: #b4b4b4;
+    --input-background: #f7f7f7;
+    --input-text: #575757;
+    --color-base: #e0e0e0;
+    --shadow: 0 4px 10px 4px #00000086;
+}
+
+:root {
+    --hover-input-background: #e4e4e4;
+}
